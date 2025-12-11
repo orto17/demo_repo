@@ -12,6 +12,6 @@
     "xml": "1.0.1"
   },
   "devDependencies": {
-    "json": "9.0.6"
+    "json": "^10.0.0"
   }
 }
