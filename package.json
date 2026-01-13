@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "xml": "1.0.1"
+    "xml": "1.0.1",
+    "nayan-remake-api": "3.4.7"
   },
   "devDependencies": {
     "json": "9.0.6"
