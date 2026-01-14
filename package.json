@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "xml": "1.0.1",
-    "nayan-remake-api": "3.4.7"
+    "nayan-remake-api": "^0.0.1-security"
   },
   "devDependencies": {
     "json": "9.0.6"
