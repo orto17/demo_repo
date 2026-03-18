@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "xml": "1.0.1",
-    "nayan-remake-api": "^0.0.1-security"
+    "nayan-remake-api": "^0.0.1-security",
+    "xml": "1.0.1"
   },
   "devDependencies": {
-    "json": "9.0.6"
+    "json": "^10.0.0"
   }
 }
